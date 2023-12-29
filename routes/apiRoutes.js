@@ -18,3 +18,5 @@ router.post('/api/notes',(req,res)=>{
     fs.writeFileSync('db/db.JSON'.stringify(dbJson));
     res.json(dbJson);
 });
+
+module.exports =router;
