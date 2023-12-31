@@ -12,8 +12,19 @@ when using this application you will first see that there is a test note that yo
 
 ## credits
 inspiration 
+Shawn Clarke
 https://www.youtube.com/watch?v=-UiqzvUe360
 
 https://www.youtube.com/watch?time_continue=1&v=BSVWmsGU4Dc&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fnewwindow%3D1%26sca_esv%3D594324085%26rlz%3D1C1CHBF_enUS911US911%26sxsrf%3DAM9HkKmOZJv8iu3PJZjxfIA8noqi08vdiw%3A17&source_ve_path=MjM4NTE&feature=emb_title
 
 https://www.youtube.com/watch?v=Qo71smMMQBc
+
+
+## Links 
+https://noteapp-7cdbfc6adeaa.herokuapp.com/
+https://github.com/Shawnclarke21/note-taker
+
+![Screenshot 2023-12-31 123053](https://github.com/Shawnclarke21/note-taker/assets/139307719/c92bb189-25b1-4682-b28d-1539fdd7c58e)
+
+![Screenshot 2023-12-31 123151](https://github.com/Shawnclarke21/note-taker/assets/139307719/03f57923-70fa-4107-9d13-d423f93ad58e)
+![Screenshot 2023-12-31 123204](https://github.com/Shawnclarke21/note-taker/assets/139307719/e3916c19-9ed9-4d79-8f88-aecda2d9ba35)
